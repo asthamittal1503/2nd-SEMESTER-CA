@@ -1,0 +1,4 @@
+1# Write a C program that implements a stack and its operations using  a. Arrays b. Linked List (Pointers). 
+2# Write a C program to convert the Infix expression into a Postfix expression. 
+3# Write a C program to evaluate a postfix expression. 
+4# Write a C program to convert the following infix expression into postfix form.  (A + B) * (C + B) * (E / F). 
