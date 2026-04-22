@@ -1,0 +1,4 @@
+1# Write a C program that uses functions to perform the following operations on an array   a. Create an array of size 25 and insert the element of your choice   b. Delete the element at the beginning, middle, and end and adjust the Array.   c. Insert the element at the particular locations in the Array.  d. Display all the elements
+2# Write a C Program to merge two sorted arrays into one sorted array.
+3# Write a C Program to traverse the array using pointers. 
+4# Write a C Program that takes an index as input and prints the element of the array at that index using pointer arithmetic. 
